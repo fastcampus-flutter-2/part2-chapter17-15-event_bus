@@ -1,0 +1,16 @@
+name: add
+description: add package.
+publish_to: none
+
+environment:
+  sdk: 3.2.6
+  flutter: 3.16.9
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  setting:
+    path: ../setting
+
+  flutter_modular: 6.3.3

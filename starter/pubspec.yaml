@@ -1,0 +1,7 @@
+name: workspace
+
+environment:
+  sdk: 3.2.6
+
+dependencies:
+  melos: 5.3.0
